@@ -8,7 +8,7 @@ public class TestGit {
         System.out.println("Hello~");// edit by master
         System.out.println("Hello~");// edit by resolve confict
         System.out.println("Hello~");// test push
-        System.out.println("Hello~");
+        System.out.println("Hello~");// edit by right
         System.out.println("Hello~");
         System.out.println("Hello~");
     }
